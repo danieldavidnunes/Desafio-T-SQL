@@ -1,6 +1,7 @@
 # Desafio-T-SQL
 Desafios para avaliação de conhecimentos técnicos
 
+## Script em T-SQL
 ``` SQL
 create table Cliente (
 	Id int identity primary key,
@@ -17,7 +18,7 @@ create table Produto (
 )
 ```
 
-SENTA, QUE LÁ VEM HISTÓRIA:
+## SENTA, QUE LÁ VEM HISTÓRIA:
 
 Uma empresa que vende roupas contratou um profissional de TI para desenvolver seu sistema e
 este criou um banco de dados para eles irem cadastrando seus Clientes e Produtos enquanto
@@ -28,7 +29,7 @@ a empresa contratou você para dar continuidade ao projeto e você resolveu term
 de dados antes de dar inicio ao Frontend.
 
 
-TÁ PRONTO PRO DESAFIO?
+## TÁ PRONTO PRO DESAFIO?
 
 Com base nas duas tabelas acima, dê continuidade ao projeto CRIANDO TABELAS para a parte de vendas, onde 
 existirá uma venda que pode conter um ou mais itens.
@@ -39,14 +40,14 @@ do retorno da FUNCTION, e por fim RETORNE APENAS UM JSON.
 
 CRIE UMA PROCEDURE para listagem das vendas por data e hora e retorne os dados via JSON.
 
-DICAS:
+## DICAS:
 - Atente-se à integridade relacional
 - Insira dados nas tabelas, ao menos 3 registros para cada tabela
 - Não utilize RAISERROR para retornos, todas as mensagens de retorno, de sucesso ou não, devem ser tratadas 
 e retornas pelo JSON final
 - o JSON final deve ser retornado apenas numa linha e coluna de alias JSON
 
-ENVIO DO TESTE:
+## ENVIO DO TESTE:
 - Crie um arquivo .ZIP ou .RAR contendo os scripts separados por TABELAS.sql, METODOS.sql, INSERIRVENDAS.sql,
 LISTARVENDAS.sql
 - Coloque em sua conta do GIT um arquivo .ZIP ou .RAR contendo todos os SCRIPTS que precisam ser executados
