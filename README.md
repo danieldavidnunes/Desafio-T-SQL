@@ -41,6 +41,7 @@ do retorno da FUNCTION, e por fim RETORNE APENAS UM JSON.
 CRIE UMA PROCEDURE para listagem das vendas por data e hora e retorne os dados via JSON.
 
 ## DICAS:
+- A linguagem usada deve ser T-SQL (Microsoft SQL Server)
 - Atente-se à integridade relacional
 - Insira dados nas tabelas, ao menos 3 registros para cada tabela
 - Não utilize RAISERROR para retornos, todas as mensagens de retorno, de sucesso ou não, devem ser tratadas 
