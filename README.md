@@ -35,7 +35,7 @@ Com base nas duas tabelas acima, dê continuidade ao projeto CRIANDO TABELAS par
 existirá uma venda que pode conter um ou mais itens.
 
 Para inserir a venda no banco de dados CRIE UMA PROCEDURE que receba via JSON os dados da venda e seus itens
-e, depois de validar por uma FUNCTION se o valor de cada item é permitido, ela grave ou não a venda, dependendo 
+e, depois de validar por uma FUNCTION se o valor de venda de cada item é permitido com base no valor mínimo, ela grave ou não a venda, dependendo 
 do retorno da FUNCTION, e por fim RETORNE APENAS UM JSON.
 
 CRIE UMA PROCEDURE para listagem das vendas por data e hora e retorne os dados via JSON.
