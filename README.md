@@ -52,4 +52,4 @@ e retornas pelo JSON final
 - Crie um arquivo .ZIP ou .RAR contendo os scripts separados por TABELAS.sql, METODOS.sql, INSERIRVENDAS.sql,
 LISTARVENDAS.sql
 - Coloque em sua conta GITHUB todos os SCRIPTS que precisam ser executados e envie apenas o link deste desafio para ser baixado.
-- Envie o link para daniel@faculdadeplay.edu.br
+- Envie o link junto com seu CV para daniel@faculdadeplay.edu.br
