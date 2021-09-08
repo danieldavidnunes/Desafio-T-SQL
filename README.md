@@ -1,4 +1,4 @@
-# Desafio-T-SQL
+# Desafio SQL
 Desafio para avaliação de conhecimentos técnicos
 
 ## Script em T-SQL
