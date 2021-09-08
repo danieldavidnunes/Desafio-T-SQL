@@ -1,5 +1,5 @@
 # Desafio-T-SQL
-Desafios para avaliação de conhecimentos técnicos
+Desafio para avaliação de conhecimentos técnicos
 
 ## Script em T-SQL
 ``` SQL
