@@ -42,7 +42,7 @@ CRIE UMA PROCEDURE para listagem das vendas por data e hora e retorne os dados v
 
 ## DICAS:
 - A linguagem usada deve ser T-SQL (Microsoft SQL Server)
-- Atente-se à integridade relacional
+- Atente-se à integridade referencial
 - Insira dados nas tabelas, ao menos 3 registros para cada tabela
 - Não utilize RAISERROR para retornos, todas as mensagens de retorno, de sucesso ou não, devem ser tratadas 
 e retornas pelo JSON final
